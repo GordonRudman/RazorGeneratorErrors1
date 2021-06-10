@@ -1,5 +1,5 @@
 # Intro
-This is a really basic Balzor server side website generated using the VS2019 Blazor template.
+This is a really basic Blazor server side website generated using the VS2019 Blazor template.
 
 This works perfectly using VS2019 v16.9.7 and .net 6 Preview 2!
 
