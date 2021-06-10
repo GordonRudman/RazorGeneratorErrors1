@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\gordo\\.nuget\\packages\\": {},
+    "C:\\Users\\Build\\!\\NugetCache\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\!\\RazorGeneratorErrors1a\\BlazorApp1\\BlazorApp1.csproj",
+      "projectName": "BlazorApp1",
+      "projectPath": "C:\\!\\RazorGeneratorErrors1a\\BlazorApp1\\BlazorApp1.csproj",
+      "packagesPath": "C:\\Users\\gordo\\.nuget\\packages\\",
+      "outputPath": "C:\\!\\RazorGeneratorErrors1a\\BlazorApp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Users\\Build\\!\\NugetCache\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\gordo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\Build\\!\\NugetCache": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/my-software/A0101/_packaging/A0101/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/my-software/A0104/_packaging/A0104/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/my-software/A0503/_packaging/A0503/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-preview.2.21155.3\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
